@@ -1,0 +1,11 @@
+Random Polluted City,Geolocation,Air_Quality_Index,Carbon_Monoxide (μg/m3),Hydrogen (μg/m3),Ozone (μg/m3),Fine_Particle_Matter (μg/m3),Coarse_Particulate_Matter (μg/m3),Sulphur dioxide (μg/m3),Timestamp,Status
+Kanpur,"[26.4703088, 80.3251749]",216,0,42,32.4,216,0,27.6,2021-03-21 09:00:00,ok
+Bamenda,-,-,0,0,0,0,0,0,0,error
+Peshawar,"[34.00585, 71.53775]",149,0,53,0,149,0,0,2021-03-21 09:00:00,ok
+Kampala,"[0.300225, 32.591553]",68,0,94,0,68,0,0,2021-03-21 07:00:00,ok
+Narayanganj,-,-,0,0,0,0,0,0,0,error
+Baoding,"[38.873891, 115.464806]",34,1.6,16,40.7,34,25,3.6,2021-03-21 12:00:00,ok
+Doha,-,-,0,0,0,0,0,0,0,error
+Ulaanbaatar,"[47.894281, 106.882475]",59,0,24,5.3,0,59,21.8,2021-03-21 11:00:00,ok
+Al-Ahmadi,"[29.03536945, 48.12294702]",72,21.7,40,2.2,72,60,1.8,2021-03-21 07:00:00,ok
+Yanbu,-,-,0,0,0,0,0,0,0,error
